@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Pradeep Kumar | Personal Website</title>
+  <title>Nishka Gowda | Personal Website</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -38,8 +38,8 @@
 </head>
 <body>
   <div class="container">
-    <h1>Pradeep Kumar</h1>
-    <p>Hello! I'm Pradeep, a software engineer passionate about AI, cloud computing, and helping others grow through learning and innovation.</p>
+    <h1>Nishka Gowda</h1>
+    <p>Hello! I'm Nishka, a software engineer passionate about AI, cloud computing, and helping others grow through learning and innovation.</p>
 
     <h2>About Me</h2>
     <p>I have over 12 years of experience building intelligent systems, speaking at events, and mentoring teams. I'm currently working at Emirates Airlines and writing a weekly AI newsletter: <em>Air Around AI</em>.</p>
@@ -52,7 +52,7 @@
     </ul>
 
     <footer>
-      &copy; 2025 Pradeep Kumar. All rights reserved.
+      &copy; 2025 Nishka Gowda. All rights reserved.
     </footer>
   </div>
 </body>
